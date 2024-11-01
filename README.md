@@ -11,7 +11,7 @@
 ## Specification
 - PHP >= 7.3
 - Laravel 8.x
-- Database MySQL or MariaDB
+- Database Oracle MySQL or MariaDB
 
 
 ## Installation Steps
