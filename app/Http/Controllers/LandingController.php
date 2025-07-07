@@ -107,6 +107,7 @@ class LandingController extends Controller
         return view('pages.landing-page.managers', compact('managers'));
     }
 
+    
     public function stadiums()
     {
         $stadiums = Stadiums::all();
