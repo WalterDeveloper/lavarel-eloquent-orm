@@ -8,6 +8,7 @@ use App\Models\Players;
 use App\Models\Stadiums;
 use Illuminate\Http\Request;
 
+
 class LandingController extends Controller
 {
     /**
